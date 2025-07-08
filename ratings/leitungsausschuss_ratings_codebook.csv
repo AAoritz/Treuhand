@@ -1,0 +1,6 @@
+id_meeting,Unique identifier of meeting of the Leitungsausschuss when rating was decided on
+id,Unique identifier of Treuhand firm
+la_rating,Rating
+la_rating_orig,Rating description if provided
+la_rating_rounded,Rating rounded to integers
+date_meeting,Date of meeting of the Leitungsausschuss
