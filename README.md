@@ -5,7 +5,7 @@
 This is a repository for the raw data used in the paper [The big sell: Privatizing East Germany’s economy](https://www.sciencedirect.com/science/article/abs/pii/S0047272724002275) 
 by [Lukas Mergele](https://sites.google.com/view/lmergele/home), [Moritz Hennicke](https://hennicke.science/) and [Moritz Lubczyk](https://sites.google.com/view/moritzlubczyk/). 
 
-This repository contains two data sets: The privatization status of East German firms in 2017 and the Treuhand Firm Ratings dataset.
+This repository contains two data sets: The privatization status of East German firms in 2016 and the Treuhand Firm Ratings dataset.
 Please consult the [data appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0047272724002275-mmc1.pdf) for further details. 
 
 ## 1. Privatization Status
