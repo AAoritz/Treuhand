@@ -12,7 +12,7 @@ Please consult the [data appendix](https://ars.els-cdn.com/content/image/1-s2.0-
 
 In 2018, we submitted a freedom of information request to the successor organization of the Treuhandanstalt, the Bundesanstalt für vereinigungsbedingte Sonderaufgaben (BvS), to obtain firm-level data. 
 In response, Mr. Dieter Freund from the BvS provided the Excel file shared here. 
-The file contains information on the privatization outcomes of East German firms as of 2016, including, among other variables: firm name, Treuhand ID, company registry number, federal state, and privatization status. 
+The file contains information on the privatization outcomes of East German firms as of 2016, including, among other variables: firm name, Treuhand ID, company registry number, federal state, and privatization status (excluding municipalizations). 
 A codebook describing the variables is included in the final tab of the Excel file.
 
 
